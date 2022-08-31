@@ -1,4 +1,4 @@
-baseURL = 'https://mellow-brioche-2ea7e5.netlify.app/'
-languageCode = 'en-us'
-title = 'My New Hugo Site'
-theme = 'hugo-zzo'
+baseURL = 'https://viktorwang.netlify.app/'
+languageCode = 'en'
+title = '首页'
+theme = 'Zzo'
