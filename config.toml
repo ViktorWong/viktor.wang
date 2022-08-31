@@ -2,3 +2,9 @@ baseURL = 'https://viktorwang.netlify.app/'
 languageCode = 'en'
 title = '首页'
 theme = 'Zzo'
+
+# Comments on github issue
+[params.utteranc]
+    repo = "ViktorWong/viktor.wang"
+    issue-term = "pathname"
+    theme = "github-light"
