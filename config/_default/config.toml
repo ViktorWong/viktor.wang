@@ -1,4 +1,4 @@
-baseURL = "viktorwang.netlify.app"
+baseURL = "https://viktorwang.netlify.app/"
 title = "Hugo Zzo Theme"
 theme = "zzo"
 
