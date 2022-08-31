@@ -1,0 +1,3 @@
+[submodule "themes/hugo-zzo"]
+	path = themes/hugo-zzo
+	url = https://github.com/zzossig/hugo-theme-zzo.git
