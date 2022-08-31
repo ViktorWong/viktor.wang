@@ -6,7 +6,7 @@ draft: false
 hideToc: false
 enableToc: true
 enableTocContent: false
-author: Jeus
+author: Viktor
 authorEmoji: 🎅
 pinned: true
 tags:
