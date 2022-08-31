@@ -69,6 +69,14 @@ location = "Seoul, Korea"
 organization = "Hugo"
 link = "https://zzossig.io/ko"
 
+# Comments on github issue
+[utteranc]
+  repo = "ViktorWong/viktor.wang"
+  issue-term = "pathname"
+  theme = "github-light"
+
+
+
 # sidebar
 enableBio = true
 enableBioImage = true
